@@ -2,7 +2,7 @@ type: mech
 mechFrontSway: 1
 mechSideSway: 3
 mechStride: 5
-canBoost: true
+canBoost: false
 flying: false
 speed: 0.5
 drag: 0.9
