@@ -2,4 +2,5 @@ type: mech
 mechFrontSway: 1
 mechSideSway: 3
 mechStride: 5
-canBoost: false
+canBoost: true
+flying: false
