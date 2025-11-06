@@ -4,5 +4,5 @@ description: "makes serpulo core units ground based"
 author: "poiu-y"
 version: 0.0
 subtitle: "you can't shoot and fly anymore"
-minGameVersion: 160
+minGameVersion: 146
 repo: Poiu-y/vern-mod
