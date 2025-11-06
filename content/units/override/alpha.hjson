@@ -5,3 +5,4 @@ mechStride: 5
 canBoost: true
 flying: false
 speed: 0.5
+drag: 0.9
