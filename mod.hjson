@@ -3,6 +3,6 @@ displayName: "Grounded Cores"
 description: "makes serpulo core units ground based"
 author: "poiu-y"
 version: 0.0
-subtitle: "you can't fly anymore"
+subtitle: "you can't (permanantly) fly anymore"
 minGameVersion: 146
 repo: Poiu-y/grounded-core-units
